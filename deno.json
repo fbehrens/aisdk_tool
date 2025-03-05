@@ -5,6 +5,7 @@
     "imports": {
         "@ai-sdk/anthropic": "npm:@ai-sdk/anthropic@^1.1.14",
         "@ai-sdk/openai": "npm:@ai-sdk/openai@^1.2.0",
+        "@fbehrens/youtube-transcript": "jsr:@fbehrens/youtube-transcript@^1.0.1",
         "@std/assert": "jsr:@std/assert@1",
         "ai": "npm:ai@^4.1.51",
         "zod": "npm:zod@^3.24.2"
